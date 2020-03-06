@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b58aef1f-20e1-463e-abd9-72bebd88df92" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/module1-define-ml-problems/LS_DS_231.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module1-define-ml-problems/LS_DS_231.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1-define-ml-problems/LS_DS_231_assignment.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/module1-define-ml-problems/Paris_Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module1-define-ml-problems/Paris_Project.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module2-wrangle-ml-datasets/LS_DS_232_assignment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module2-wrangle-ml-datasets/LS_DS_232_assignment.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/module3-permutation-boosting/LS_DS_233_assignment.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/module3-permutation-boosting/LS_DS_233_assignment.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1YeRoom8JIxKwyioFwdwTXivr4X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b58aef1f-20e1-463e-abd9-72bebd88df92" name="Default Changelist" comment="" />
+      <created>1583301250537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583301250537</updated>
+    </task>
+    <servers />
+  </component>
+</project>
